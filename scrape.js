@@ -48,8 +48,7 @@ function delay(ms) {
 }
 
 // Main scraper
-const scrape = async () => {
-  const baseUrl = process.argv[2];
+const scrape = async (baseUrl) => {
   if (!baseUrl) {
     console.error("❌ Please provide a URL.\nUsage: node scraper.js <url>");
     process.exit(1);
