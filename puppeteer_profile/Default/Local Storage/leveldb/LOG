@@ -1,0 +1,11 @@
+2025/11/10-07:04:45.946 3fec Reusing MANIFEST C:\Users\USER\Desktop\nodejs webscrapping practice\puppeteer_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/10-07:04:45.960 3fec Recovering log #3
+2025/11/10-07:04:45.961 3fec Level-0 table #3: started
+2025/11/10-07:04:45.988 3fec Level-0 table #3: 11223 bytes OK
+2025/11/10-07:04:45.990 3fec Recovering log #4
+2025/11/10-07:04:45.998 3fec Reusing old log C:\Users\USER\Desktop\nodejs webscrapping practice\puppeteer_profile\Default\Local Storage\leveldb/000004.log 
+2025/11/10-07:04:46.004 3fec Delete type=0 #3
+2025/11/10-07:04:46.004 3fec Delete type=2 #5
+2025/11/10-07:06:49.270 370c Level-0 table #6: started
+2025/11/10-07:06:49.288 370c Level-0 table #6: 11910 bytes OK
+2025/11/10-07:06:49.292 370c Delete type=0 #4
