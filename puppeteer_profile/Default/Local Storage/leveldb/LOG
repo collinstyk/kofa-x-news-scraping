@@ -1,11 +1,14 @@
-2025/11/10-07:04:45.946 3fec Reusing MANIFEST C:\Users\USER\Desktop\nodejs webscrapping practice\puppeteer_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/11/10-07:04:45.960 3fec Recovering log #3
-2025/11/10-07:04:45.961 3fec Level-0 table #3: started
-2025/11/10-07:04:45.988 3fec Level-0 table #3: 11223 bytes OK
-2025/11/10-07:04:45.990 3fec Recovering log #4
-2025/11/10-07:04:45.998 3fec Reusing old log C:\Users\USER\Desktop\nodejs webscrapping practice\puppeteer_profile\Default\Local Storage\leveldb/000004.log 
-2025/11/10-07:04:46.004 3fec Delete type=0 #3
-2025/11/10-07:04:46.004 3fec Delete type=2 #5
-2025/11/10-07:06:49.270 370c Level-0 table #6: started
-2025/11/10-07:06:49.288 370c Level-0 table #6: 11910 bytes OK
-2025/11/10-07:06:49.292 370c Delete type=0 #4
+2025/11/10-11:38:25.957 407c Reusing MANIFEST C:\Users\USER\Desktop\nodejs webscrapping practice\puppeteer_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/10-11:38:26.068 407c Recovering log #10
+2025/11/10-11:38:26.077 407c Reusing old log C:\Users\USER\Desktop\nodejs webscrapping practice\puppeteer_profile\Default\Local Storage\leveldb/000010.log 
+2025/11/10-11:38:26.079 4060 Compacting 4@0 + 0@1 files
+2025/11/10-11:38:26.238 4060 Generated table #13@0: 16 keys, 8081 bytes
+2025/11/10-11:38:26.238 4060 Compacted 4@0 + 0@1 files => 8081 bytes
+2025/11/10-11:38:26.265 4060 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/11/10-11:38:26.283 4060 Delete type=2 #3
+2025/11/10-11:38:26.283 4060 Delete type=2 #6
+2025/11/10-11:38:26.283 4060 Delete type=2 #9
+2025/11/10-11:38:26.284 4060 Delete type=2 #11
+2025/11/10-11:39:26.261 407c Level-0 table #15: started
+2025/11/10-11:39:26.533 407c Level-0 table #15: 12089 bytes OK
+2025/11/10-11:39:26.553 407c Delete type=0 #10
